@@ -1,3 +1,6 @@
+## My Projects 👨🏻‍💻
+- [Litestream S3](https://github.com/raydelrosario/terraform-aws-litestream-s3): Terraform module with resources needed to create an AWS storage for SQLite data replication with Litestream
+
 ## My Certifications 🏅
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/5cd43576-a604-4557-9a5b-668beced86c2)
 - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/89543799-1289-4f5a-be08-e23b76ccb18d)
